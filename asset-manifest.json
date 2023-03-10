@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/best-movies/static/js/main.ed19026d.js",
+    "main.js": "/best-movies/static/js/main.ec29f9e9.js",
     "index.html": "/best-movies/index.html",
-    "main.ed19026d.js.map": "/best-movies/static/js/main.ed19026d.js.map"
+    "main.ec29f9e9.js.map": "/best-movies/static/js/main.ec29f9e9.js.map"
   },
   "entrypoints": [
-    "static/js/main.ed19026d.js"
+    "static/js/main.ec29f9e9.js"
   ]
 }
